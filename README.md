@@ -81,6 +81,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Code Wars](https://www.codewars.com/kata/search/my-languages?q=&tags=SQL&beta=false&order_by=sort_date%20desc) - SQL Practice questions (and Competition if you like)
 
+[Datawrapper](https://academy.datawrapper.de/) - Learn how to build charts, tables, maps with Datawrapper, and aesthetically pleasing way to visualize data
+
 ## Courses 
 
 [Intro to Git and GitHub](https://teamtreehouse.com/library/github-basics) - Treehouse 
