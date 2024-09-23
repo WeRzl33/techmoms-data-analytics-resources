@@ -61,6 +61,8 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Data Analyst vs Data Scientist](https://www.freecodecamp.org/news/data-analyst-vs-data-scientist-whats-the-difference/)
 
+[21 Data Science Take Home Challenges](https://www.interviewquery.com/p/data-science-takehome-challenges)
+
 ## Continuing Education
 
 [Weber State Data Analytics Certificate](https://www.weber.edu/goddard/DataAnalyticsCertificate.html) 
@@ -97,11 +99,21 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Hex](https://hex.tech/) 
 
+[Deepnote](www.deepnote.com)
+
 [Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 
 ## Analysis 
 
 [Data Analysis of Licensed Drivers in the USA](https://deepnote.com/app/data-analytics-playroom-daj/Analysis-3354e600-3cd3-4c06-866f-97f3eb21a5df?utm_source=substack&utm_medium=email) - using Deepnote / Python / SQL 
+
+## LinkedIn - People to follow
+
+[Jess Ramos](https://www.linkedin.com/in/jessramosmsba/) - Sr. Data Analyst, DA Courses, Tech Tips, Interview Tips
+
+[Alex Freberg](https://www.linkedin.com/in/alex-freberg/) - "Alex the Analyst" on Youtube, Helpful SQL Tips, Interview Tips 
+
+[Elijah Butler](https://www.linkedin.com/in/elijahbutler/) - Sr. Data Analyst, Top Data Viz Voice, Posts about free data analytics resources
 
 
 ## Scholarships
